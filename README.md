@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bedalbug
-- 👀 I’m interested in Arduino projects.
-- 🌱 I’m currently learning C++ for Arduino
-- 💞️ I’m looking to collaborate on Motion sensing
+- 👀 I’m interested in Arduino projects, Python, and AI.
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to become proficiant in git
 - 📫 How to reach me ...
 
 <!---
